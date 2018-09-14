@@ -2,4 +2,4 @@ tarina alkaa Tietokone Työvälineenä -kurssilla
 tarina jatkuu lapio-kurssilla
 olipa kerran Torvalds, joka ohjelmoi Githubin
 Torvalds opiskeli Helsingin Yliopistolla
-silloin ei ollut vielä Kumpulaa
+silloin  Kumpulaa ei ollut olemassa
